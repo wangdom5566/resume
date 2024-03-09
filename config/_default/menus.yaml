@@ -10,8 +10,11 @@ main:
   - name: CV
     url: 'uploads/resume.pdf'
     weight: 20
-  - name: Side Project
+  - name: Text Minning with R
     url: 'https://drive.google.com/drive/folders/1ykuvdO1kQ4gwAvxqsNnPK5Y7LklWectY?usp=drive_link'
+  - name: Imputation App
+    url: 'https://rlegislativeelections.shinyapps.io/imputation/?fbclid=IwAR1CStt_mhFZ6AqeORkOjkwrd_hbANM__tZV6fBas3MTjRUDRzSTl41OLmg'
+    weight: 40
   - name: Contact
     url: 'mailto:shihhao626@vt.edu'
     weight: 60

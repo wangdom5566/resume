@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming Phd Student
+role: Incoming PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -43,7 +43,7 @@ education:
       institution: National TsingHua University
       year: 2020
     - course: MA Contemporary China Studie
-      institution: National TsingHua University
+      institution: Academia Sinica
       year: 2020
 
 # Skills
