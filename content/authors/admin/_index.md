@@ -119,7 +119,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an incoming Ph.D. student in Sociology at Virginia Tech, focusing my research on social stratification, economic inequality, and social demography.
-
-The current issues driving my research include (1) examining why certain governments, despite possessing strong state capacity, overlook the deepening of income inequality; (2) investigating the instability in middle-class support for egalitarian social policies; and (3) analyzing the Age, Period, and Cohort Characteristics of Married Childless Families in Taiwan.
+I am an incoming Ph.D. student in Sociology at Virginia Tech, focusing my research on social stratification, economic inequality, and social
+demography. The current issues driving my research include (1) examining why certain governments, despite possessing strong state capacity, overlook the deepening of income inequality; (2) investigating the instability in middle-class support for egalitarian social policies; and (3) analyzing the Age, Period, and Cohort Characteristics of Married Childless Families in Taiwan.
 {style="text-align: justify;"}
