@@ -13,7 +13,7 @@ main:
   - name: Side Project
     url: 'https://drive.google.com/drive/folders/1ykuvdO1kQ4gwAvxqsNnPK5Y7LklWectY?usp=drive_link'
   - name: Contact
-    url: 'shihhao626@vt.edu'
+    url: 'mailto:shihhao626@vt.edu'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
