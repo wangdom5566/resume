@@ -1,12 +1,12 @@
 ---
-title: Example Project
+title: Textmining with R
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Textmining
+date: '2021-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://drive.google.com/drive/folders/1ykuvdO1kQ4gwAvxqsNnPK5Y7LklWectY?usp=sharing'
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/wangdom5566
 url_code: ''
 url_pdf: ''
 url_slides: ''
