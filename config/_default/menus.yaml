@@ -10,13 +10,13 @@ main:
   - name: CV
     url: 'uploads/resume.pdf'
     weight: 20
-  - name: Text Minning with R
-    url: 'https://drive.google.com/drive/folders/1ykuvdO1kQ4gwAvxqsNnPK5Y7LklWectY?usp=drive_link'
+  - name: Contact
+    url: 'mailto:shihhao626@vt.edu'
   - name: Imputation App
     url: 'https://rlegislativeelections.shinyapps.io/imputation/?fbclid=IwAR1CStt_mhFZ6AqeORkOjkwrd_hbANM__tZV6fBas3MTjRUDRzSTl41OLmg'
     weight: 40
-  - name: Contact
-    url: 'mailto:shihhao626@vt.edu'
+  - name: Text Mining With R
+    url: 'https://drive.google.com/drive/folders/1ykuvdO1kQ4gwAvxqsNnPK5Y7LklWectY?usp=drive_link'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
