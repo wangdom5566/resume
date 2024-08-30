@@ -25,7 +25,7 @@ organizations:
     url: https://liberalarts.vt.edu/departments-and-schools/department-of-sociology.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an incoming Ph.D. student in Sociology at Virginia Tech, focusing my research on social stratification, economic inequality, and social demography. 
+bio: I am a Ph.D. student in Sociology at Virginia Tech, focusing my research on social stratification, economic inequality, and social demography. 
 
 # Interests to show in About widget
 interests:
@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD Sociology
       institution: Virginia Tech
-      year: 2024
+      year: 2024-
     - course: MA Sociology
       institution: National TsingHua University
       year: 2020
@@ -59,7 +59,7 @@ skills:
       - name: Rstudio
         description: ''
         percent: 100
-        icon: rstudio
+        icon: Rstudio
         icon_pack: devicon
       - name: stata
         description: ''
@@ -119,6 +119,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an incoming Ph.D. student in Sociology at Virginia Tech, focusing my research on social stratification, economic inequality, and social
+I am a Ph.D. student in Sociology at Virginia Tech, focusing my research on social stratification, economic inequality, and social
 demography. The current issues driving my research include (1) examining why certain governments, despite possessing strong state capacity, overlook the deepening of income inequality; (2) investigating the instability in middle-class support for egalitarian social policies; and (3) analyzing the Age, Period, and Cohort Characteristics of Married Childless Families in Taiwan.
 {style="text-align: justify;"}
