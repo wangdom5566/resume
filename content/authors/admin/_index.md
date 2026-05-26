@@ -47,7 +47,7 @@ education:
       year: 2020
     - course: BA Chinese Literature
       institution: National TsingHua University
-      year: 2016
+      year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
