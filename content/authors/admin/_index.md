@@ -22,15 +22,15 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Department of Sociology at Virginia Tech
-    url: https://liberalarts.vt.edu/departments-and-schools/department-of-sociology.html
+    url: https://liberalarts.vt.edu/departments-and-schools/department-of-sociology/sociology-graduate-students/Shih-Hao-Lin.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student in Sociology at Virginia Tech, focusing my research on social stratification, economic inequality, and social demography. 
+bio: I am a Ph.D. student in Sociology at Virginia Tech, focusing my research on Inequality, Poverty and Mobility, Comparative Political Economy, and social demography. 
 
 # Interests to show in About widget
 interests:
-  - Social Stratification
-  - Economic Inequality
+  - Inequality, Poverty and Mobility
+  - Comparative Political Economy
   - Social Demography
 
 # Education to show in About widget
@@ -45,6 +45,9 @@ education:
     - course: MA Contemporary China Studie
       institution: Academia Sinica
       year: 2020
+    - course: BA Chinese Literature
+      institution: National TsingHua University
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -114,11 +117,10 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. student in Sociology at Virginia Tech, focusing my research on social stratification, economic inequality, and social
-demography. The current issues driving my research include (1) examining why certain governments, despite possessing strong state capacity, overlook the deepening of income inequality; (2) investigating the instability in middle-class support for egalitarian social policies; and (3) analyzing the Age, Period, and Cohort Characteristics of Married Childless Families in Taiwan.
+I am a Ph.D. student in Sociology at Virginia Tech, focusing my research on inequality, poverty and mobility, comparative political economy, and social demography. The current issues driving my research include (1) examining why are women less likely to be promoted to top positions within a company? ; (2) investigating the instability in middle-class support for Post-Materialist Value in East Asia; and (3) analyzing the impact of deindustrialization and industrialization on trust in science across East Asia, Western Europe, and North America.
 {style="text-align: justify;"}
