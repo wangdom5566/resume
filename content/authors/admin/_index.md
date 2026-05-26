@@ -122,5 +122,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. student in Sociology at Virginia Tech, focusing my research on inequality, poverty and mobility, comparative political economy, and social demography. The current issues driving my research include (1) examining why are women less likely to be promoted to top positions within a company? ; (2) investigating the instability in middle-class support for Post-Materialist Value in East Asia; and (3) analyzing the impact of deindustrialization and industrialization on trust in science across East Asia, Western Europe, and North America.
+I am a Ph.D. student in Sociology at Virginia Tech. My research focuses on inequality, poverty and social mobility, comparative political economy, and social demography. My current research projects examine: (1) why women are less likely to be promoted to top positions within firms; (2) the instability of middle-class support for post-materialist values in East Asia; and (3) the impact of deindustrialization and industrialization on trust in science across East Asia, Western Europe, and North America.
 {style="text-align: justify;"}
